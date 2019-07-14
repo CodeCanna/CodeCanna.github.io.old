@@ -7,24 +7,24 @@ body {
 
 nav {
     background-color: lightgray;
-    padding: 10px;
+    padding: 3px;
 }
 
 nav ul {
     text-align: right;
-    padding: 4px;
 }
 
 nav ul li {
     list-style: none;
     display: inline;
+    padding: 20px;
 }
 
 nav ul li:hover {
     background-color: coral;
 }
 
-nav ul li a {
+nav ul a {
     text-decoration: none;
     color: black;
 }
