@@ -1,0 +1,30 @@
+body {
+    background-color: gray;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+nav {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+nav ul {
+    text-align: right;
+    padding: 4px;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+}
+
+nav ul li:hover {
+    background-color: coral;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
